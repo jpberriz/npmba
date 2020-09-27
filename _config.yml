@@ -84,3 +84,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Include the _pages folder {JP added this}
+include: ['_pages']
