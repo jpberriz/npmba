@@ -3,6 +3,8 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
+This is a list of blog entries that are like "side notes" to the NonProfit Business Management Model. 
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
