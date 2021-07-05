@@ -5,9 +5,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            nonprofit.mba
-tagline:          'nonprofit.mba'
-description:      'A Book, a Workshop, a Community, and a Knowledge Repository'
+title:            nonprofit capacity building
+tagline:          'Growing organizations that make the world a better place'
+description:      'a Book<br>a Workshop<br>a Community<br>a Knowledge Repository'
 url:              https://nonprofit.mba
 baseurl:          /
 
