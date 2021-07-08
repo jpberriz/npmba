@@ -7,16 +7,15 @@ exclude_from_search: true
 
 ## Start here:
 
-1. Use the Quick Capacity Assessment Tool (QCAT).  It will help you quickly identify where most capacity building work is needed in your organization. You will receive a two-page report that will give you an overview of your organization's capacity by functional area. 
-
-2. Sign up for email updates. You will be able to sign up for our next Nonprofit Capacity Building Workshop. You will learn to use our Nonprofit Capacity Building Framework to build and grow your nonprofit.
+1. Use the [Quick Capacity Assessment Tool (QCAT)](https://forms.gle/3Ad8Ly7Xc82i5nR78). You will receive a two-page report that will give you an overview of your organization's capacity to carry out its mission. 
+2. Sign up for [email updates](/signup) so you receive a notification of our next Nonprofit Capacity Building Workshop.
 
 <br/>
 
 ## Coming soon: 
 
 * A Workshop on Nonprofit Innovation Management.
-* A Learning Community of peers that are building and growing their nonprofits. 
+* A Learning Community of peers that are building their nonprofits. 
 * A Nonprofit.MBA Book that will serve you as a reference manual.
 * A Knowledge Repository for you to browse and use for your daily work.
 
